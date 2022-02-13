@@ -1,5 +1,4 @@
 import React from 'react'
-import { Avatar, AvatarBadge, AvatarGroup } from '@chakra-ui/react'
 import "../Home.css";
 
 export const Home = () => {
