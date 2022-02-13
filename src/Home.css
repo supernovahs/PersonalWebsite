@@ -1,0 +1,19 @@
+h4 {
+  color: blueviolet;
+  background-color: black;
+}
+
+h3 {
+  background-color: yellow;
+}
+h1 {
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+a {
+  color: blue;
+}
+body {
+  background-color: cadetblue;
+}

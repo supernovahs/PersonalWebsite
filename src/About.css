@@ -1,0 +1,14 @@
+h1 {
+  background-color: violet;
+}
+h2 {
+  font-family: cursive;
+  background-color: yellow;
+  font-weight: bold;
+}
+p {
+  font-size: x-large;
+  font-style: italic;
+  background-color: black;
+  color: blueviolet;
+}
