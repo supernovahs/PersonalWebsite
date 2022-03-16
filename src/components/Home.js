@@ -7,7 +7,7 @@ export const Home = () => {
     <div>
        
         
-        <h1>21,Etherean for Life,Indian</h1>
+        <h1>Builder on Ethereum</h1>
         <img src= {"../public/foofanft.png"} />
         <h3>#Open for collaboration </h3>
         <h4>
